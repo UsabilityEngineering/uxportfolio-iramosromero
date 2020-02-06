@@ -9,4 +9,4 @@ Hi my name is Israel Ramos, I am a computer science major. I am really intrested
 
 
 ## UX Journal
-
+[This is my first journal entry](Journal-01/)
