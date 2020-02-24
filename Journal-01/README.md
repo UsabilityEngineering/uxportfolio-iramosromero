@@ -6,7 +6,7 @@ Israel Ramos
 Here is what I noticed when interacting with my coffee maker. Waking up early in the morning to get my regular cup of coffee. My goal when heading towards said coffee maker was to brew the cup of coffee so that when I am done getting ready for the day the coffee would be ready for me to consume. I started by first opening the the main latch. I began to fill up the back compartment in the main latch with water into the to the appropriate number of cups I wanted to brew[1]. Secondly. I laid a coffee filter into the front compartment, I then poured grounded coffee beans onto the filter[2]. I close the compartments then look at the simple button layout[3]. I set brew strength to regular which lit up green then push the button that said "brew now". The light turns green as a **feedback** to me pushing on it, this indicated to me that the coffee maker is now brewing the coffee. I then wait for the coffee maker to fill up which allowed me to to step away and just wait for the coffee to be done. 
 
 [1] Indicators that tell you how many cups of coffee you want to brew
-<img src = "../assets/Indicators.jpg" alt = "Indicators" width = "200"/>
+<img src = "../assets/Indicators.jpg" alt = "Indicators" width = "200"  style="transform:rotate(90deg);" />
 
 [2] Compartments are addressed by colored arrows. (2nd arrow is pointing behind 1st)
 <img src = "../assets/Compartments.jpg" alt = "Compartments" width = "200"/>
