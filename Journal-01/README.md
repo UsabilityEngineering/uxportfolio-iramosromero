@@ -12,7 +12,7 @@ Here is what I noticed when interacting with my coffee maker. Waking up early in
 <img src = "../assets/Compartments.jpg" alt = "Compartments" width = "200"/>
 
 [3] Layout of buttons on coffee maker
-<img src = "../assets/Layout.jpg" alt = "Layout" width = "200" style="transform:rotate(90deg);"/>
+<img src = "../assets/Layout.jpg" alt = "Layout" width = "200"/>
 
 This coffee maker is a simple tool that lives in many houses in particular due to its ease of use. One of its main strengths it's
 **efficiency**, with a little prep of the machine you can turn it on then tend to your other needs while it does the rest. It finishes it a relatively quick amount of time without hassle. It can also be set to accommodate for whoever wants coffee, you can pour enough water for just yourself or enough for as many of 12 people. Just fill it up to the line and that's it you are done. Another high priority I found when using it was just how **learnable** it is. Having only three buttons it is straight forward what each button does and two of them correlate with each other under "brew strength". Its pretty safe to assume that kids to older adults only need to be taught once to operate this machine.
