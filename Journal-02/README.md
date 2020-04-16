@@ -23,7 +23,7 @@ Here is what I noticed when oberserving and using the printer I have at home, th
 [6] button details
 <img src = "../assets/buttonLayout.PNG" alt = "layout" width = "200"   />
 
-[7] Cartridge compartment
+[7] Display
 <img src = "../assets/printDisplay.PNG" alt = "printDisplay" width = "200"/>
 
 
