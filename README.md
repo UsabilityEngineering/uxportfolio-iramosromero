@@ -11,5 +11,6 @@ Hi my name is Israel Ramos, I am a computer science major. I am really intrested
 ## UX Journal
 [First Journal Entry: Mr. Coffee](Journal-01/)
 
+
 [Second Journal Entry: HP DeskJet 3636](Journal-02/)
 
