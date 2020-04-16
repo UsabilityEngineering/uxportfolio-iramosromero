@@ -3,7 +3,7 @@
 Israel Ramos
 4/12/20
 
-Here is what I noticed when oberserving and using the printer I have at home, the Canon Deskjet 3636. Having miltiple printers at home this was actually the first time I had used this particular printer so I was able to experience it for the first time. I had to print out some pages for an upcoming zoom class. My process for printing the papers I needed was this. I would load up the paper at the back end of the printer in a tray that is sticking up and out. I like that there were indicators for different paper sizes etched into the tray so that you couldn't misplace the paper if it was a different size[3]. I the turned it on by pressing the biggest button on the layout with the power button symbol. I plugged in the USB into my laptop to allow the printer to be recognized. Then from there I used the word document software to print and designated it to the printer I was using. However there was low ink, so I got a replacement ink cartrage. There is a latch in the front though you honestly couldn't tell it was even there which led to revealing the latch that you need to open to reveal where the ink cartridges need to be[4]. Once the cartridge was replaced and  latches closed I pushed the resume button which was the top right one which I learned through you hear the printer come to life and start eating the paper page by page and printing the text onto them and spitting them out[5]. To my content I had all the pages printed correctly and all finished with about 8 minutes of effort.
+Here is what I noticed when oberserving and using the printer I have at home, the Canon Deskjet 3636. Having miltiple printers at home this was actually the first time I had used this particular printer so I was able to experience it for the first time. I had to print out some pages for an upcoming zoom class. My process for printing the papers I needed was this. I would load up the paper at the back end of the printer in a tray that is sticking up and out. I like that there were indicators for different paper sizes etched into the tray so that you couldn't misplace the paper if it was a different size[3]. I the turned it on by pressing the biggest button on the layout with the power button symbol. I plugged in the USB into my laptop to allow the printer to be recognized. Then from there I used the word document software to print and designated it to the printer I was using. However there was low ink, so I got a replacement ink cartrage. There is a latch in the front though you honestly couldn't tell it was even there which led to revealing the latch that you need to open to reveal where the ink cartridges need to be[4]. Once the cartridge was replaced and  latches closed I pushed the resume button which was the top right one which I learned through you hear the printer come to life and start eating the paper page by page and printing the text onto them and spitting them out[5]. To my content I had all the pages printed correctly and all finished with about eight minutes of effort.
 
 [1] Front label of printer
 <img src = "../assets/printLabel.jpg" alt = "Print Label" width = "200"   />
@@ -21,10 +21,10 @@ Here is what I noticed when oberserving and using the printer I have at home, th
 <img src = "../assets/printInside.jpg" alt = "printInside" width = "200"/>
 
 [6] button details
-<img src = "../assets/buttonLayout.jpg" alt = "layout" width = "200"   />
+<img src = "../assets/buttonLayout.PNG" alt = "layout" width = "200"   />
 
 [7] Cartridge compartment
-<img src = "../assets/printDisplay.jpg" alt = "printDisplay" width = "200"/>
+<img src = "../assets/printDisplay.PNG" alt = "printDisplay" width = "200"/>
 
 
 
