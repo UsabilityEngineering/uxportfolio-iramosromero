@@ -14,3 +14,5 @@ Hi my name is Israel Ramos, I am a computer science major. I am really intrested
 
 [Second Journal Entry: HP DeskJet 3636](Journal-02/)
 
+
+[Third Journal Entry: Shop Ex Arrive](Journal-03/)
