@@ -6,8 +6,7 @@ Hi my name is Israel Ramos, I am a computer science major. I am really intrested
 
 
 ## UX Team Project
-Safehaven
-https://usabilityengineering.github.io/SafeHaven/
+[Safehaven](https://usabilityengineering.github.io/SafeHaven/)
 
 ## UX Journal
 [First Journal Entry: Mr. Coffee](Journal-01/)
